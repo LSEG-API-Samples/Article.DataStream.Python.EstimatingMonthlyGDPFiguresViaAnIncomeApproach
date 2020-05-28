@@ -33,10 +33,8 @@ $$\begin{array}{ll}
         & \\
 \end{array}$$
 
-
 It may seem needlessly convoluted to insert $r_t$ the way it was done above, but it was necessary due to the fact that we have $r_t$ estimates ($\widehat{r_{t}}$) - we thus build our framework around it: since Total Compensation figures are released on a monthly basis, if we can construct an estimate for the linearly-time-variant $r_t$, we can then construct monthly G.D.P. figures (even though only quarterly ones are published). \
 This article will study the efficiency of the U.S.A. Real G.D.P. Per Worker To National Real Total Compensation Per Worker Ratio ($RGDPPWTNRTCPWR$) as the ratio '$r_t$'.
-
 
 ## Development Tools & Resources
 The example code demonstrating the use case is based on the following development tools and resources:
