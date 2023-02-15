@@ -1,1 +1,1 @@
-See Jupyter Notebook (.ipynb file)
+See [Full article](https://developers.refinitiv.com/en/article-catalog/article/estimating-monthly-gdp-figures-via-an-income-approach) on Developer Portal and the Jupyter Notebook (.ipynb file) on this repo.
